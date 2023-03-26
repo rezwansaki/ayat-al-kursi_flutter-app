@@ -7,12 +7,14 @@ Ayatul Kursi in Bangla. You can read Ayatul Kursi in Bangla from this app.
 
 ## Features
 
-১. আরবীতে সম্পুর্ন আয়াতুল কুরসী দেয়া আছে।
-২. তেলওয়াত করে শোনাবে।
-৩. বাংলাতে উচ্চারন এবং অর্থ দেয়া আছে।
-৪. আরবী এবং বাংলা ফন্ট এম্বেড করা আছে, ডিভাইসে এই ফন্ট দুইটি না থাকলেও দেখা যাবে।
-৫. রেসপনসিভ, অর্থাৎ কমবেশি প্রায় সকল ডিভাইসেই ঠিকমত দেখা যাবে।
-৬. Move To SD সাপোর্টেড, অর্থাৎ ইনস্টল করার পর ইচ্ছা করলে এ্যাপটি সরিয়ে নেয়া যাবে ফোন মেমোরী হতে এসডি কার্ড এ।
+<ul>
+    <li>১. আরবীতে সম্পুর্ন আয়াতুল কুরসী দেয়া আছে।</li>
+    <li>২. তেলওয়াত করে শোনাবে।</li>
+    <li>৩. বাংলাতে উচ্চারন এবং অর্থ দেয়া আছে।</li>
+    <li>৪. আরবী এবং বাংলা ফন্ট এম্বেড করা আছে, ডিভাইসে এই ফন্ট দুইটি না থাকলেও দেখা যাবে।</li>
+    <li>৫. রেসপনসিভ, অর্থাৎ কমবেশি প্রায় সকল ডিভাইসেই ঠিকমত দেখা যাবে।</li>
+    <li>৬. Move To SD সাপোর্টেড, অর্থাৎ ইনস্টল করার পর ইচ্ছা করলে এ্যাপটি সরিয়ে নেয়া যাবে ফোন মেমোরী হতে এসডি কার্ড এ।</li>
+</ul>
 
 ## Instructuions
 
@@ -39,6 +41,10 @@ This is a flutter project, so there should be whatever you need to run the flutt
 
 Requirement of Minimum SDK Version: minSdkVersion 16 (Android 4.1 or, JELLY BEAN)
 
+## Tested On:
+
+Pixel2, Nexus 10 Tab, Galaxy Nexus and Samsung Galaxy J7
+
 ## Used tools and programming languages
 
 <ul>
@@ -56,7 +62,3 @@ Requirement of Minimum SDK Version: minSdkVersion 16 (Android 4.1 or, JELLY BEAN
 
 Md. Rezwan Saki Alin
 https://www.alinsworld.com/
-
-এ্যাপটির সাইজ: (এই এ্যাপ সব ডিভাইসের জন্য বান্ডেল হিসাবে বীল্ড করা, তা না হলে সাইজ কম হতো)
-বীল্ড করার সময় এন্ড্রয়েড অপারেটিং সিস্টেম ছিল: Android API 29 (Android 10 অথবা Android Q)
-সাপোর্টেড ডিভাইস (Tested): Pixel2, Nexus 10 Tab, Galaxy Nexus এবং আমার ফোন Samsung Galaxy J7
